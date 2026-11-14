@@ -1,7 +1,7 @@
 
 
 {
-  "title": "q3ese-ls0-Unit-1-Audio",
+  "title": "Q3eSE_LS0_U07_01_QClassroom",
   "sentences": [
     {
       "speaker": "Teacher + 4 Students",
@@ -69,6 +69,34 @@
       "answer": "",
       "Image": ""
     },
+  
+     {
+      "speaker": "Teacher:",
+      "keyWord": "",
+      "definition": "",
+      "english": "What city do you want to visit?",
+      "arabic": "أي مدينة تريد زيارتها ولماذا؟",
+      "refer_to": "Pages 121",
+      "back_to": "",
+      "audio": "assets/audio/What city do you want to visit.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+ {
+      "speaker": "Teacher:",
+      "keyWord": "",
+      "definition": "",
+      "english": "and why?",
+      "arabic": "أي مدينة تريد زيارتها ولماذا؟",
+      "refer_to": "Pages 121",
+      "back_to": "",
+      "audio": "assets/audio/and why.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+
     
     {
       "speaker": "Felix:",
